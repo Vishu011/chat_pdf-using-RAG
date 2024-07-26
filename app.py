@@ -39,7 +39,7 @@ def create_ui():
 
     # Add some footer
     st.markdown("---")
-    st.markdown("**Powered by**: Shaurya Mishra")
+    st.markdown("**Powered by**: Lakshya Dadhich")
 
 # Main function to run the app
 def main():
